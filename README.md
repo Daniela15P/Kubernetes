@@ -24,12 +24,8 @@ Vantaggi:
 - Risolvere problemi comuni dovuti alla proliferazione dei container organizzandoli in “pod” 
 - Scalare in tempo reale risorse e applicazioni
 - Testare e correggere automaticamente le applicazioni
-
-  ----
-- Facile organizzazione del servizio con pod.
-- Sviluppato da Google, con una vasta esperienza nel settore del cloud.
-- Un'enorme community e strumenti di orchestrazione dei container.
 - Varietà di opzioni di archiviazione, comprese SAN locali e cloud pubblici.
+
 
 Svantaggi:
 
@@ -41,6 +37,7 @@ Svantaggi:
 
 
 
+  ----
 FONTI:
 - https://www.criticalcase.com/it/blog/kubernetes-feature-e-vantaggi.html
 - https://blog.desdelinux.net/it/Docker-contro-Kubernetes/
